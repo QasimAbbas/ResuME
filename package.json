@@ -1,0 +1,27 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "AI yoself",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SimpleSnippet/ResuME.git"
+  },
+  "keywords": [
+    "AI",
+    "chatbot",
+    "resume"
+  ],
+  "author": "QA and EA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SimpleSnippet/ResuME/issues"
+  },
+  "homepage": "https://github.com/SimpleSnippet/ResuME#readme",
+  "dependencies": {
+    "sequelize": "^3.24.3"
+  }
+}
