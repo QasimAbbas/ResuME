@@ -22,6 +22,8 @@
   },
   "homepage": "https://github.com/SimpleSnippet/ResuME#readme",
   "dependencies": {
+    "mongodb": "^2.2.10",
+    "mysql": "^2.11.1",
     "sequelize": "^3.24.3"
   }
 }
